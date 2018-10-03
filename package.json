@@ -1,0 +1,9 @@
+{
+  "name": "MachineAnimations",
+  "description": "Onboarding animation for Memento",
+  "version": "0.1.0",
+  "author": "Alexis Colin",
+  "dependencies": {
+    "lottie-web": "^5.3.3"
+  }
+}
