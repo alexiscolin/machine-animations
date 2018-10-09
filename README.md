@@ -1,4 +1,4 @@
-# 🎬 machine-animations
+# 🎬 Machine Animations
 
 This is a list of animations created for Memento SAS in order to explain their business. They are used on the the Memento App's onboarding panes
 
