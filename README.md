@@ -1,6 +1,6 @@
 # 🎬 Machine Animations
 
-This is a list of animations created for Memento SAS in order to explain their business. They are used on the the Memento App's onboarding panes
+This is a list of animations created for Memento SAS in order to explain their business. They are used on the onboarding panes of the Memento's app.
 
 The challenge was to create animations that are smooth, easy to load and custom (colors). That's why we start using Illustrator to draw all shapes and ideas. Then, we import them inside AE application to animate and export them again to movies and json data thanks to Lottie.
 
