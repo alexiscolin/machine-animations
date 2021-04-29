@@ -10,9 +10,9 @@ AI + transparency (no catch with GDPR) = love that 🔥!
 
 Most interesting here was to define the integration format to deliver the best experience on all screens.
 
-<p align="center"><img src="http://files.de-jaune-et-de-bleu.com/img/github/machine-animations/camera.gif" width="50%"></p>
+<p align="center"><img src="https://files.jaunebleu.co/img/github/machine-animations/camera.gif" width="50%"></p>
 <p>&nbsp;</p>
-<p align="center"><img src="http://files.de-jaune-et-de-bleu.com/img/github/machine-animations/machine.gif" width="50%"></p>
+<p align="center"><img src="https://files.jaunebleu.co/img/github/machine-animations/machine.gif" width="50%"></p>
 <p>&nbsp;</p>
-<p align="center"><img src="http://files.de-jaune-et-de-bleu.com/img/github/machine-animations/phone.gif" width="50%"></p>
+<p align="center"><img src="https://files.jaunebleu.co/img/github/machine-animations/phone.gif" width="50%"></p>
 <p>&nbsp;</p>
